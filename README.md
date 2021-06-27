@@ -10,6 +10,7 @@ We used SQLAlchemy to connect/generate queries in our SQLite database and help u
 # Results
 To begin our analysis we looked at Oahu precipitation for a one year timeframe, specifically August 23 2016 - August 23 2017.
 ![image](https://user-images.githubusercontent.com/82848585/123556411-1b005580-d759-11eb-8949-14449e8ad088.png)
+
 Our mean for precipitation was about 18%, which means a little over 80% of the time in Oahu it is not precipitating.
 
 We also wanted to know the number of weather stations collecting precipitation data and find out which one was collecting the most data and use that for our temperature collection. After finding the station we used its data to determine the high low and average temperature for the same time period. Our results showed that the average temperature was 72°F with a high of 85° and a low of 54°.
