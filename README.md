@@ -17,11 +17,14 @@ We also wanted to know the number of weather stations collecting precipitation d
 
 ![image](https://user-images.githubusercontent.com/82848585/123556426-25225400-d759-11eb-908e-f4a2cc5eb36d.png)
 
-We then dove deeper into our analysis by looking at all of the observations recorded in the months of June and December. We were able to find three key differences between June and December.
+We then dove deeper into our analysis by looking at all of the observations recorded in the months of June and December. In the dataframes below the left represents June while the right represents December. We were able to find three key differences between June and December. 
+
+![june_temp](https://user-images.githubusercontent.com/82848585/123559596-fdd48280-d76a-11eb-8646-37b43065e29f.png)![december_temps](https://user-images.githubusercontent.com/82848585/123559597-0036dc80-d76b-11eb-880b-9339108f9030.png)
+
   - The mean temperature differs by about three degrees from 74°(June) to 71° (December)
   - The lowest temperature in December was 56° while June was 64°
   - We only had 1517 temperature observations counted in December compared to 1700 in June
 
-![june_temp](https://user-images.githubusercontent.com/82848585/123559596-fdd48280-d76a-11eb-8646-37b43065e29f.png)![december_temps](https://user-images.githubusercontent.com/82848585/123559597-0036dc80-d76b-11eb-880b-9339108f9030.png)
+
 
 
