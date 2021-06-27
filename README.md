@@ -14,6 +14,7 @@ To begin our analysis we looked at Oahu precipitation for a one year timeframe, 
 Our mean for precipitation was about 18%, which means a little over 80% of the time in Oahu it is not precipitating.
 
 We also wanted to know the number of weather stations collecting precipitation data and find out which one was collecting the most data and use that for our temperature collection. After finding the station we used its data to determine the high low and average temperature for the same time period. Our results showed that the average temperature was 72°F with a high of 85° and a low of 54°.
+
 ![image](https://user-images.githubusercontent.com/82848585/123556426-25225400-d759-11eb-908e-f4a2cc5eb36d.png)
 
 We then dove deeper into our analysis by looking at all of the observations recorded in the months of June and December. We were able to find three key differences between June and December.
