@@ -25,6 +25,9 @@ We then dove deeper into our analysis by looking at all of the observations reco
   - The lowest temperature in December was 56° while June was 64°
   - We only had 1517 temperature observations counted in December compared to 1700 in June
 
+# Summary
+Based on our data analysis the weather is looking good for the Surf N Shake investment. We found that the temperature in Oahu is relatively the same throughout the year in the mid 70s and the chances of continuous rainfall is low. If the investor Mr. W. Avy still isnt convinced then there are other avenues we can explore for further analysis. We could compare precipitation levels between June and December or other months, and find out if there is going to be an 'off season' month where Oahu will be expecting more than 18% of its days seeing rain. Instead of using the weather station with the highest level of observations we could choose a weather station closest to the exact store location to give us the most accurate representation of precipitation and temperature. Finally, we can look at larger historical data of precipitation and temperature and compare data based on yearly trends as opposed to the months in one year. 
+
 
 
 
